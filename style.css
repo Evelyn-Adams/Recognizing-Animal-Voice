@@ -1,3 +1,15 @@
 body{
     background-image: linear-gradient( #ffffff,#33ffff,#3399ff,#3333ff,#9933ff,#cc33ff,	#ff33cc,#ff3399,#ff3366);
+    font-family: 'Lobster',cursive;
+}
+.footer{
+    position: fixed;
+    color:#ff3366;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #3399ff;
 }
